@@ -13,3 +13,29 @@ Documento que presenta las habilidades, formación y experiencia laboral de una 
 Portafolio
 
 Herramienta que sirve para demostrar de manera visual, las capacidades con las que cuentas en el momento de postularte a un empleo. Ten presente esto, especialmente si lo más importante en tu trabajo son elementos visuales.
+
+En general puede ser cualquier perfil, siempre y cuando demuestres de una forma creativa e inteligente tu experiencia.
+
+En los siguientes casos es indispensable un portafolio:
+
+Marketing y profesiones relacionadas con redes sociales
+Diseño gráfico y web, fotografía, producción e ilustración
+Finanzas, algunas ingenierías y otras si eres creativo
+
+Identifica tu público meta
+
+Depende del tipo empresa debes presentar tu CV. Debes dirigirte a cada audiencia con la estrategia de comunicación apropiada.
+
+Piensa en las siguientes preguntas:
+
+¿Quién verá tu portafolio?
+¿Qué pretendes conseguir con él?
+¿Qué tipo de empleo buscas, fijo o freelance?
+¿En qué tamaño de empresa te sentirás mejor?
+¿Cómo visualizas tu proyección profesional y en qué sector?
+
+Recuerda que en tu portafolio también puedes usar Ilustraciones, videos, fotografías, gráficos y reportes.
+
+![imagen](https://user-images.githubusercontent.com/83564327/193379413-8a830a5b-2289-4672-97f1-92e1c5f91b2f.png)
+
+![imagen](https://user-images.githubusercontent.com/83564327/193379417-6c107b36-bd19-473f-a328-39cc9f04dac4.png)
